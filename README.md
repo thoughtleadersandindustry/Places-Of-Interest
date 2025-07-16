@@ -2,7 +2,7 @@
 
 Places-Of-Interest is an open, organized collection of information about notable locations and destinations. This repository gathers details, references, and resources about places that hold cultural, historical, architectural, or professional significance.
 
-Purpose
+# Purpose
 The goal of this repository is to provide a central resource for sharing credible, well-structured information about meaningful places. By organizing this material, Places-Of-Interest aims to support research, planning, and discovery for professionals, students, and anyone interested in exploring and learning about significant sites.
 
 Structure
