@@ -1,33 +1,38 @@
 # Places-Of-Interest
 
-Places-Of-Interest is an open, organized collection of information about notable locations and destinations. This repository gathers details, references, and resources about places that hold cultural, historical, architectural, or professional significance.
+**Places-Of-Interest** is an open, organized collection of information about notable locations and destinations around the world. This repository gathers details, references, and resources about places that hold cultural, historical, architectural, or professional significance.
 
-# Purpose
-The goal of this repository is to provide a central resource for sharing credible, well-structured information about meaningful places. By organizing this material, Places-Of-Interest aims to support research, planning, and discovery for professionals, students, and anyone interested in exploring and learning about significant sites.
+## Purpose
 
-Structure
-Content is organized by category, type, or region. Typical entries may include:
+The purpose of this repository is to provide a centralized resource for sharing credible, well-structured information about meaningful places. By organizing this material by region or theme, **Places-Of-Interest** supports research, planning, and discovery for professionals, students, and anyone interested in exploring and learning about significant sites.
 
-Descriptions and historical context
+## Structure
 
-Related articles and references
+Content is organized into subfolders by region, category, or type of place. Entries may include:
+- Descriptions and historical context
+- Relevant articles, references, or source links
+- Images or site photos (where permitted)
+- Notable facts or related projects
 
-Project images or site photos (where permitted)
 
-Notable facts and sources
+## Contributing
 
-Contributing
-Contributions are welcome! If you’d like to expand this collection:
+Contributions are welcome! If you have a place to add:
+1. **Fork this repository.**
+2. **Create a new branch** (`feature/add-place`).
+3. **Add or update content** in the appropriate folder.
+4. **Submit a pull request** with a clear description.
 
-Fork this repository.
+Please ensure all contributions are factual, well-sourced, and respect copyright or privacy rules. See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
-Create a new branch (feature/new-place).
+## License
 
-Add or update content in the appropriate folder.
+This project is open source and available under the [MIT License](LICENSE).
 
-Submit a pull request with a clear description of your addition.
+## Code of Conduct
 
-Please ensure all contributions are credible, respectful of copyright, and clearly sourced.
+Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold this standard.
 
-License
-This project is open source and available under the MIT License.
+---
+
+**Thank you for helping make Places-Of-Interest a valuable, credible resource for everyone.**
