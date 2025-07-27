@@ -1,31 +1,33 @@
-# Banking in Oklahoma
+# Blogs
 
-This folder features content and resources related to the presence, impact, and role of banking institutions across the state of Oklahoma. It is part of the **Places-Of-Interest** repository, which highlights meaningful locations, industries, and organizations with regional or cultural significance.
+This folder contains blog posts, articles, and thought leadership pieces related to banking institutions and financial topics in Oklahoma. These resources highlight the role local banks play in serving their communities, supporting business growth, and promoting financial literacy across the state.
 
 ## Purpose
 
-The purpose of this section is to document and share insights into the banking landscape in Oklahoma — including regional banks, community branches, financial outreach programs, and local economic development efforts driven by the banking sector.
+The purpose of this folder is to organize and present credible, regionally relevant blog content that offers insight into the banking landscape in Oklahoma. These entries provide a deeper understanding of financial services and their connection to local development.
 
-This folder may include:
-- Profiles of Oklahoma-based banks and credit unions
-- Articles and blog posts from local financial institutions
-- Community-focused banking initiatives
-- Images of branches or headquarters (with permission)
-- Notable case studies or financial education efforts
+## Content May Include
+
+- Blog posts from Oklahoma-based banks or financial organizations
+- Articles about financial education, lending programs, or digital banking services in the state
+- Community success stories or case studies featured in bank blogs
+- Resources that support small business financing or personal financial wellness
+
+## Guidelines
+
+- Only include content that is publicly available and properly sourced.
+- Use a separate `.md` file for each blog post.
+- Include the title, a brief summary, and a link to the original article.
+- Add author and institution details when available.
+- Respect copyright and attribution requirements.
+
 
 ## How to Contribute
 
-To add a resource to this folder:
-1. Create a new `.md` file with a clear, descriptive filename.
-2. Include the institution name, location, a brief summary, and a link to the original article or website.
-3. Add any relevant images or media, ensuring proper permissions and attribution.
-4. Follow the repository’s [CONTRIBUTING.md](../../CONTRIBUTING.md) and [Code of Conduct](../../CODE_OF_CONDUCT.md).
+To add a blog:
+1. Create a new `.md` file using a descriptive filename.
+2. Follow the formatting used in existing entries.
+3. Place the file in this `Blogs/` subfolder.
+4. Follow the repository’s [CONTRIBUTING.md](../../../CONTRIBUTING.md) and [Code of Conduct](../../../CODE_OF_CONDUCT.md).
 
-
-## License & Usage
-
-All shared materials should respect copyright, client permissions, and fair use. Always include original source links where possible.
-
----
-
-*This folder is part of a broader effort to document institutions and industries that shape Oklahoma’s local economy and community.*
+Thank you for contributing to a growing collection of local financial knowledge in Oklahoma.
