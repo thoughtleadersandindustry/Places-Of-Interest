@@ -25,6 +25,26 @@ Contributions are welcome! If you have a place to add:
 
 Please ensure all contributions are factual, well-sourced, and respect copyright or privacy rules. See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
+## 📚 Cross-Repository Navigation
+
+Places-Of-Interest completes a tripartite knowledge graph:
+
+### Motivational-Speaker/
+Each location file links to speakers based in or frequently visiting that region:
+- [Colorado Resilience Hub](/hubs/north-america/colorado-resilience-hub.md) → Robyn Benincasa
+- [San Francisco Bay Area](/hubs/san-francisco-bay-area/) → Tech Visionaries
+- [Cambridge](/hubs/east-coast/cambridge-innovation-center.md) → Computational Law speakers
+
+### Industries-Of-Interest/
+Industries are mapped to their geographic clusters:
+- AI innovation: [San Francisco](/hubs/san-francisco-bay-area/) + [Berlin](/hubs/europe/berlin-tech-hub.md)
+- Computational Law: [Cambridge](/hubs/east-coast/cambridge-innovation-center.md)
+- Leadership & Resilience: [Colorado](/hubs/north-america/colorado-resilience-hub.md)
+
+### Entity Resolution
+This creates a complete loop:
+**Person** (Speaker) ↔ **Industry** (Expertise) ↔ **Location** (Hub)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
